@@ -22,6 +22,7 @@ requirements:
     - python
     - pytest >=4.4
     - six >=1.0.0
+    - py
 
 test:
   imports:
